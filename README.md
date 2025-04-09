@@ -1,1 +1,1 @@
-Kocak Banget bah!
+Hi, i am using odin project to learning web developement 
